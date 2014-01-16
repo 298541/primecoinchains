@@ -15,7 +15,9 @@ getinfo.php gets latest network information, while getblocks.php loads blocks in
 
 Then, wait for the blockchain to sync and move over to the database.
 
+
 ABOUT PRIMECHAINER
+
 Primechainer is the tool to calculate the full prime chain to further work with it in the PHP scripts.
 Primechainer source can be found in lib/primechainer_sourcecode. (Sorry, no makefile yet!)
 primechainer.exe was compiled by me under Linux x64. Compile it yourself for MAX SECURITY!
