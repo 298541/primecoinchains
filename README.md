@@ -22,9 +22,3 @@ Primechainer is the tool to calculate the full prime chain to further work with 
 Primechainer source can be found in lib/primechainer_sourcecode. (Sorry, no makefile yet!)
 primechainer.exe was compiled by me under Linux x64. Compile it yourself for MAX SECURITY!
 
-If you feel like donating:
-
-            XPM: TUoCLdyDNmXgKFgiQgkxJhL8rq6mixvX9R
-            PPC: PFTBKAPg3YwZRfWXZhJ6f7yXcS1V5Hcieq
-            BTC: 1383CyywThWrGvyUwdPxPan4R1QMrg4cJF
-			Thank you!
